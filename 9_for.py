@@ -27,7 +27,7 @@ for num in numbers:
 print("The total sum is:", total)
 
 
-# Imprimir números pares del 1 al 100
+# Print number pair 1 to 100
 for num in range(1, 101):
     if num % 2 == 0:
         print(num)
